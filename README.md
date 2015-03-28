@@ -3,9 +3,6 @@
 (https://www.akana.com/img/formerlyLOGO8.png) 
 [Akana.com](http://akana.com)
 
-## SOA Software API HOOK
-Put a nice company logo image here. 
-Link to product documentation and product overview page
 ## Trello API to Google Sheets API integration
 ### About the API
 - This integration API takes no input, but uses the users credentials to discover all the Boards owned and converts them to Google Sheets spreadsheets. The Board name becomes the name of the spreadsheet. The List names of the Board becomes the names of the worksheets, inside the spreadsheet. The name of a Card in the List becomes the values of the first cell in a row in a worksheet.
