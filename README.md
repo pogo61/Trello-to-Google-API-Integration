@@ -1,4 +1,9 @@
-# SOA Software API HOOK
+# Akana API HOOK
+![Image of Akana] 
+(https://www.akana.com/img/formerlyLOGO8.png) 
+[Akana.com](http://akana.com)
+
+## SOA Software API HOOK
 Put a nice company logo image here. 
 Link to product documentation and product overview page
 ## Trello API to Google Sheets API integration
